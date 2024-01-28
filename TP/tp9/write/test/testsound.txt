@@ -1,0 +1,10 @@
+dbt;
+dbc 5;
+dal 1;
+att 40;
+dal 2;
+att 40;
+det 0;
+att 40;
+fbc;
+fin;
